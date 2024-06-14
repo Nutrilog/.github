@@ -2,9 +2,9 @@
 
 ### Introducing Nutrilog!
 
-<img width="1280" alt="nutrilog-cover" src="https://github.com/Nutrilog/.github/assets/40895148/d5bd619d-be1e-4da0-b8eb-c4fc4d8ab84b">
+![Nutrilog Cover](https://github.com/Nutrilog/.github/assets/40895148/d5bd619d-be1e-4da0-b8eb-c4fc4d8ab84b)
 
-Our project aims to develop a mobile application utilizing TensorFlow for image recognition to simplify nutrition intake tracking. The app addresses the common challenge of accurately monitoring daily nutrient intake by allowing users to conveniently capture and log nutrition information from food and drink using their smartphone camera. With rising concerns about health and nutrition, individuals often struggle to keep track of their dietary habits effectively, leading to potential health issues. 
+Our project aims to develop a mobile application utilizing TensorFlow for image recognition to simplify nutrition intake tracking. The app addresses the common challenge of accurately monitoring daily nutrient intake by allowing users to conveniently capture and log nutrition information from food and drink using their smartphone camera. With rising concerns about health and nutrition, individuals often struggle to keep track of their dietary habits effectively, leading to potential health issues.
 
 ## Meet The Team! 👋
 
